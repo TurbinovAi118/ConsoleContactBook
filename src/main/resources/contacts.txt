@@ -1,0 +1,3 @@
+Иванов Иван Иванович;+89099999999;someEmail@example.example
+Смирнов Иван Иванович;+89099999111;someEmail2@example.example
+Иванов Иван Иванович;+89099999999;someEmail@example.example
